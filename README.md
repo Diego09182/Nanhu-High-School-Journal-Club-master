@@ -36,6 +36,6 @@
 
 ChatUI by 棒棒勝
 
-Made by 張皓偉 in 2019
+Made by 張皓明 in 2019
 
 
